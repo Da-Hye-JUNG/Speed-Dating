@@ -1,2 +1,5 @@
-# Speed-Dating
-Predict whether to do a next dating or not and analyze the factors of successful matching.
+# 스피드 데이팅
+
+## 데이터사이언스를위한 R프로그래밍 강의 개인 프로젝트
+
+스피드 데이트 후에 다음 데이트(애프터) 여부를 예측하고 성공적인 매칭을 위한 요인 분석 
